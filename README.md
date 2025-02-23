@@ -1,11 +1,21 @@
-# kbled-indicator
-View Caps Lock/Num Lock status
+# 🔵 kbled-indicator
 
-Add the <em>kbled-indicator-daemon</em> script to your startup and it will act as a daemon, Caps lock and Num lock status will be notified whenever there's a change.
+**Easily monitor your Caps Lock & Num Lock status** 🖥️
 
-# Screenshots:
+## 🖼️ Screenshots
+Get a glimpse of **kbled-indicator** in action:
 
 <img src="/screenshots/scr.png" style="width:160px;height:80px" alt="Screenshot">
 <img src="/screenshots/scr1.png" style="width:160px;height:80px" alt="Screenshot">
 <img src="/screenshots/scr2.png" style="width:160px;height:80px" alt="Screenshot">
 <img src="/screenshots/scr3.png" style="width:160px;height:80px" alt="Screenshot">
+
+
+## 🚀 Installation
+
+1. Copy the `kbled-indicator-daemon` script to your system.
+2. Add it to your startup applications.
+3. Enjoy! 🎉
+
+Enjoy seamless keyboard lock monitoring! ⌨️✨
+
